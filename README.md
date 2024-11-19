@@ -1,1 +1,1 @@
-
+Python Script that allows users to log into candidate profile and automate the job application by submitting their CV passively to "one-click apply" listed jobs within user's criteria on the popular job board (Dice.com).
